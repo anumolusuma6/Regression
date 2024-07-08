@@ -4,10 +4,12 @@ This project aims to predict exposure to a hypothetical toxicant, assessed throu
 
 ### Data Description
 - Employees Dataset
-Employee: Unique employee identifier.
+  
+Employee: Unique employee identifier
 
-JobCategory: Numerical code (1-4) for job category.
-Sex: Gender of the employee (M/F).
+JobCategory: Numerical code (1-4) for job category
+
+Sex: Gender of the employee (M/F)
 Shift: Work shift (AM = morning; PM = afternoon).
 Status: Employment status (PT = Part-time; FT = Full-time).
 Age: Age of the employee at the time of biomarker sample collection.
