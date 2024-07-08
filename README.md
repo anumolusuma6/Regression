@@ -10,15 +10,23 @@ Employee: Unique employee identifier
 JobCategory: Numerical code (1-4) for job category
 
 Sex: Gender of the employee (M/F)
-Shift: Work shift (AM = morning; PM = afternoon).
-Status: Employment status (PT = Part-time; FT = Full-time).
-Age: Age of the employee at the time of biomarker sample collection.
-YearsExperience: Years the employee has worked at the company.
-StartAge: Age of the employee at the start of employment.
+Shift: Work shift (AM = morning; PM = afternoon)
+
+Status: Employment status (PT = Part-time; FT = Full-time)
+
+Age: Age of the employee at the time of biomarker sample collection
+
+YearsExperience: Years the employee has worked at the company
+
+StartAge: Age of the employee at the start of employment
+
 - Exposures Dataset
 Employee: Unique employee identifier
+
 PPE: Type of personal protective equipment used (None, Resp = Respirator, Mask = Face Mask)
+
 UrineConcentration: Concentration of toxicant in urine sample collected at the end of the work shift
+
 ### Project Steps
 - Data Preparation
 
